@@ -1,7 +1,7 @@
-### Olá mundo. 👋
+<h1>Olá mundo. 👋<h1>
 
 
-Here are some ideas to get you started:
+
 
 
 - 🌱 Aluno Explorer 3.0 da Rocketseat, estudando HTML, CSS, Javascript, Node, React e etc..
