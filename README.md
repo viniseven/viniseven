@@ -1,11 +1,8 @@
-<h1>Olá mundo. 👋</h1>
+<h1>Hi 👋, I'am Marcus Vinícius </h1>
 
 
-
-
-
-- 🌱 Aluno Explorer 3.0 da Rocketseat, estudando HTML, CSS, Javascript, Node, React e etc..
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- Full Stack Developer | Student at Rocketseat
+- Graduated in Systems Analysis and Development
  
   <p>Meu linktree desenvolvido por mim 👉 https://viniseven.github.io/linktree_viniseven/</p>
   
