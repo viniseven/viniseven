@@ -1,6 +1,6 @@
 # Hi 👋, I'am Marcus Vinícius
 
-<img align="right" width="500" height="500" src="./assets/gif_developer.gif">
+<img align="right" width="300" height="300" src="./assets/gif_developer.gif">
 
 - Full Stack Developer | Student at Rocketseat
 - Graduated in Systems Analysis and Development
