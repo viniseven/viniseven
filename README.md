@@ -1,7 +1,5 @@
 # Olá 👋, Eu sou Marcus Vinícius
 
-<img align="right" width="300" height="300" src="./assets/gif_developer.gif">
-
 - Full Stack Developer
 - Graduado em Análise e Desenvolvimento de Sistemas
   
