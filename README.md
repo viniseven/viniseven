@@ -1,8 +1,4 @@
-# Hello! 👋, I am Marcus Vinícius
-
-- Full Stack Developer 
-- Graduated in Systems Analysis and Development
-- Technology, Games and Sports Enthusiast.
+# Marcus Vinícius
 
   
  ## 🚀 My Skills
