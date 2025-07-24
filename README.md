@@ -1,6 +1,8 @@
 # Marcus Vinícius
 
-I'm a tech enthusiast who works as a Systems Analyst by day and ventures into Web Development by night (and in all my free time!). I believe that the combination of solid requirements analysis and clean code is the key to building amazing digital products. I'm passionate about solving complex problems and bringing ideas to life through code.
+I'm a tech enthusiast who works as a Systems Analyst by day and ventures into Web Development by night (and in all my free time!). 
+I believe that the combination of solid requirements analysis and clean code is the key to building amazing digital products. 
+I'm passionate about solving complex problems and bringing ideas to life through code.
 
 ### 🚀 What I'm currently up to:
 - Building a personal project with NodeJs, Next.js, TypeScript and React.
