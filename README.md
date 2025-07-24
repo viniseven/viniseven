@@ -4,8 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:marcusvini.dev.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-525b0716a/)
 
-I'm a tech enthusiast who works as a Systems Analyst by day and ventures into Web Development by night (and in all my free time!). 
-I believe that the combination of solid requirements analysis and clean code is the key to building amazing digital products. 
+I'm a technology enthusiast who works as a Systems Analyst and studies programming. 
+I believe that the combination of solid requirements analysis and clean code is key to building incredible digital products. 
 I'm passionate about solving complex problems and bringing ideas to life through code.
 
 ### 🚀 What I'm currently up to:
