@@ -27,7 +27,7 @@ profile:
 # Social links displayed at the bottom of the profile
 social:
   email: "marcusvini.dev.contato@gmail.com"
-  linkedin: "https://www.linkedin.com/in/marcus-vinícius-525b0716a"
+  linkedin: "https://www.linkedin.com/in/viniseven/"
   website: ""
 
 # Galaxy arms represent your core focus areas
@@ -94,4 +94,6 @@ languages:
   exclude: # Languages to hide from the telemetry chart
     - "Shell"
     - "Makefile"
+    - "HTML"
+    - "CSS"
   max_display: 8 # Maximum number of languages to show
