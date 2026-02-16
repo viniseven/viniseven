@@ -83,17 +83,15 @@ theme:
 # Stats configuration — which metrics to show on the telemetry card
 stats:
   metrics:
-    - "Commits"
-    - "Stars"
-    - "Pull Requests"
-    - "Issues"
-    - "Repositories"
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
 
 # Language display settings
 languages:
   exclude: # Languages to hide from the telemetry chart
-    - "HTML"
-    - "CSS"
     - "Shell"
     - "Makefile"
   max_display: 8 # Maximum number of languages to show
