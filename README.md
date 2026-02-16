@@ -29,14 +29,16 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>Mais sobre: </strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Analista de Sistemas no Hospital Regional de Rio Maria .
+Desenvolvedor Full-Stack, entusiasta por Tecnologia, Musica, Games e Esportes.
+Cristão
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Hospital Regional de Rio Maria — Rio Maria, PA
+
 </details>
 
 <br/>
@@ -45,7 +47,7 @@ Passionate about distributed systems, developer experience, and the open-source 
   <a href="mailto:marcusvini.dev.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/marcus-vinícius-525b0716a">
+  <a href="https://www.linkedin.com/in/marcus-vinícius-525b0716a">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
