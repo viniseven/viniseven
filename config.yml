@@ -10,24 +10,25 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: viniseven
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Marcus Vinícius"
+  tagline: "Full Stack Developer"
+  company: "Hospital Regional de Rio Maria"
+  location: "Rio Maria, PA"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Analista de Sistemas no Hospital Regional de Rio Maria.
+    Desenvolvedor Full-Stack, entusiasta por Tecnologia, Games, Esportes e Música.
+    Tecnólogo em Análise e Desenvolvimento de Sistemas, UEPA. Cristão
+  philosophy: '"Nunca pare de aprender"'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "marcusvini.dev.contato@gmail.com"
+  linkedin: "www.linkedin.com/in/marcus-vinícius-525b0716a"
+  website: ""
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -39,18 +40,21 @@ galaxy_arms:
       - "TypeScript"
       - "React"
       - "CSS"
+      - "Tailwind"
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
+      - "Javascript"
+      - "Typescript"
       - "Node.js"
       - "PostgreSQL"
+      - "Fastify"
+      - "Express"
+      - "NextJS"
   - name: "DevOps"
     color: "axon_amber"
     items:
-      - "Docker"
-      - "GitHub Actions"
-      - "AWS"
+      - "Loading"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +62,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "vinidev/backend_explorerfood"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "Cardápio digital para restaurantes, desenvolvido durante o Explorer da Rocketseat."
+  - repo: "vinidev/coffee_delivery_frontend"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "WebApp para venda de Cafés."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
