@@ -61,10 +61,10 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "vinidev/backend_explorerfood"
+  - repo: "viniseven/backend_explorerfood"
     arm: 0
     description: "Cardápio digital para restaurantes, desenvolvido durante o Explorer da Rocketseat."
-  - repo: "vinidev/coffee_delivery_frontend"
+  - repo: "viniseven/coffee_delivery_frontend"
     arm: 1
     description: "WebApp para venda de Cafés."
 
