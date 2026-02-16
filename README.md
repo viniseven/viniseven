@@ -43,7 +43,7 @@ Cristão
 
 <br/>
 
-<div align="center">
+<div align="center" flex>
   <a href="mailto:marcusvini.dev.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
