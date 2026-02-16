@@ -53,7 +53,6 @@ galaxy_arms:
       - "NextJS"
   - name: "DevOps"
     color: "axon_amber"
-    items:
 
 # Featured projects shown as constellation stars
 # Each project needs:
